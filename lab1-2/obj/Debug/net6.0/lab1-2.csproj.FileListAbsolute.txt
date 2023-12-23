@@ -1,0 +1,29 @@
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\bin\Debug\net6.0\lab1-2.exe
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\bin\Debug\net6.0\lab1-2.deps.json
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\bin\Debug\net6.0\lab1-2.runtimeconfig.json
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\bin\Debug\net6.0\lab1-2.dll
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\bin\Debug\net6.0\lab1-2.pdb
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.csproj.AssemblyReference.cache
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.AssemblyInfoInputs.cache
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.AssemblyInfo.cs
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.dll
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\refint\lab1-2.dll
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.pdb
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\lab1-2.genruntimeconfig.cache
+C:\Users\QM\Desktop\G\TEACHING\3 курс 1 семестр\ООП\1 семестр\Лабы\lab1\lab1-2\obj\Debug\net6.0\ref\lab1-2.dll
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\bin\Debug\net6.0\lab1-2.exe
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\bin\Debug\net6.0\lab1-2.deps.json
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\bin\Debug\net6.0\lab1-2.runtimeconfig.json
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\bin\Debug\net6.0\lab1-2.dll
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\bin\Debug\net6.0\lab1-2.pdb
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.AssemblyInfo.cs
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.dll
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\refint\lab1-2.dll
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.pdb
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\lab1-2.genruntimeconfig.cache
+C:\Users\user\Desktop\Тичинг в ПОЛИКе\3 курс\5 семестр\ООП\Мои лабы\lab1-2\obj\Debug\net6.0\ref\lab1-2.dll
